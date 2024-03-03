@@ -1,5 +1,14 @@
 .Footer_outer_container {
-    /* background-color: #111; */
+   
+    color: gray;
+    display: flex;
+    justify-content: center;
+    bottom: 0;
+   
+}
+
+.Footer_outer_container {
+   
     color: gray;
     display: flex;
     justify-content: center;
@@ -34,7 +43,7 @@
     flex-direction: column;
     justify-content: space-around;
     height: 12vh;
-    /* background-color: blue; */
+   
 }
 
 .Footer_data ul li {
